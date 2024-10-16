@@ -1,6 +1,6 @@
-- Hi, I’m @Nycoland
--  I’m interested in code, stuffs of tech
--  I’m currently learning basic programs 
+- Hi, I’m @Nycole Pereira
+-  I´m studying análise e desenvolvimento de sistemas - ADS
+-  I’m currently learning programming languages
 -  I’m looking to collaborate on technology 
 
 <!---
